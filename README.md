@@ -4,3 +4,5 @@
 - 💞️ I would like to cooperate to mentor me 
 - 📫 How to reach me killtheswots@gmail.com
 
+Goal 1
+-Making projects using Xamarin.Forms documents for 100 days 
