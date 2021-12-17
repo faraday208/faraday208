@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmet Faruk ALAÇAM
+- 👋 Hi, I’m Ahmet Faruk ALAÇAM (Turkey)
 - 👀 I’m interested in Mobile Applications
 - 🌱 I’m currently learning Xamarin.Forms
 - 💞️ I would like to cooperate to mentor me 
