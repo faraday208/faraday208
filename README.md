@@ -47,7 +47,7 @@ I write up the things that broke and why, at
 
 - **Site:** [ahmetfarukalacam.com](https://ahmetfarukalacam.com)
 - **LinkedIn:** [ahmetfarukalacam](https://www.linkedin.com/in/ahmetfarukalacam/)
-- **Email:** killtheswots@gmail.com
+- **Email:** ahmetfarukalacam@hotmail.com
 
 *Currently open to remote contract work. .NET is the core — ASP.NET Core, Blazor,
 EF Core, Xamarin/MAUI. I build the Python and local-model tooling around it when
